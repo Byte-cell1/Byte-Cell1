@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Byte-cell1/Byte-Cell1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Lagos, NG
 
-Here are some ideas to get you started:
+I build responsive, accessible, and performance-focused websites. 
+Currently learning React and documenting my journey in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+**Languages:** HTML5, CSS3, JavaScript (ES6+)  
+**Frameworks/Libraries:** React *learning*, Tailwind CSS  
+**Tools:** Git, GitHub, GitHub Pages, VS Code  
+**Concepts:** Responsive Design, Accessibility, SEO Basics, Clean UI/UX
+
+Projects
+Portfolio Site
+Live: [https://Byte-cell1.github.io](https://Byte-cell1.github.io)  
+A collection of my frontend projects hosted on GitHub Pages.
+
+About
+- Building projects and sharing code on GitHub
+- Currently focused on learning React and modern frontend workflows
+- Open to collaborations, feedback, and junior developer opportunities
+
+Connect
+[X](https://x.com/yourusername)  
+[Instagram](https://instagram.com/yourusername)  
+[GitHub](https://github.com/Byte-Cell1)
